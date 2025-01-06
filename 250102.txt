@@ -1,0 +1,12 @@
+Filesystem      Size  Used Avail Use% Mounted on
+rootfs          151G  137G   15G  91% /
+none            151G  137G   15G  91% /dev
+none            151G  137G   15G  91% /run
+none            151G  137G   15G  91% /run/lock
+none            151G  137G   15G  91% /run/shm
+none            151G  137G   15G  91% /run/user
+C:              151G  137G   15G  91% /mnt/c
+D:              261G  873M  260G   1% /mnt/d
+E:              261G  459M  260G   1% /mnt/e
+F:              261G  2.7G  258G   2% /mnt/f
+H:              500M   35M  466M   7% /mnt/h
